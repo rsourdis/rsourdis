@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently building Shelf-Cloud<br>📚 Tech Stack: Node.js, React, SQL, Python.
+💻 Fullstack Developer<br>📚 Tech Stack: Node.js, React, SQL, Python.
 
 
 ## 🌐 Socials:
